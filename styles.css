@@ -1720,7 +1720,7 @@ a:hover {
     position: relative;
     max-width: 820px;
     width: min(92vw, 820px);
-    background: #fff url("images/tekstur.png");
+    background: #fff url("images/tekstur.jpg");
     background-size: cover;
 
   /* dekker hele flaten */
@@ -2149,4 +2149,5 @@ a:hover {
 
 .cta-wide-text .normal-text {
   font-style: normal;
+
 }
